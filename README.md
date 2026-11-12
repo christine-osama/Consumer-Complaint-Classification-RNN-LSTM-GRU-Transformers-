@@ -21,6 +21,12 @@ A text classification project that categorizes consumer financial complaints int
 5. **Evaluation** — accuracy, precision, recall, F1-score, and confusion matrices for each model
 6. **Deployment** — a Gradio web interface for live predictions using the best-performing model
 
+## 🎥 Demo
+
+
+https://github.com/user-attachments/assets/1c0e3eff-5d63-4b59-8d20-5e1438a13218
+
+
 ## Results
 
 | Model      | Accuracy | Precision | Recall | F1     |
